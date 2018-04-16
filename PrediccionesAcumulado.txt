@@ -1,0 +1,9 @@
+Prediccion de la evapotranspiracion de referencia para el dia 2018-04-05; 3.04
+Prediccion de la evapotranspiracion de referencia para el dia 2018-04-06; 3.73
+Prediccion de la evapotranspiracion de referencia para el dia 2018-04-09; 1.552
+Prediccion de la evapotranspiracion de referencia para el dia 2018-04-10; 1.161
+Prediccion de la evapotranspiracion de referencia para el dia 2018-04-10; 0.784
+Prediccion de la evapotranspiracion de referencia para el dia 2018-04-11; 1.832
+Prediccion de la evapotranspiracion de referencia para el dia 2018-04-12; 1.466
+Prediccion de la evapotranspiracion de referencia para el dia 2018-04-13; 1.36796
+Prediccion de la evapotranspiracion de referencia para el dia 2018-04-16; 1.93642
